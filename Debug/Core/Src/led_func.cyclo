@@ -1,0 +1,7 @@
+../Core/Src/led_func.c:12:6:sendData	5
+../Core/Src/led_func.c:31:6:sendReverseData	5
+../Core/Src/led_func.c:52:6:iterationRunRandomColor	4
+../Core/Src/led_func.c:68:6:starfall	10
+../Core/Src/led_func.c:113:6:focusLens	17
+../Core/Src/led_func.c:186:6:smoothAccumulation	13
+../Core/Src/led_func.c:247:6:scannerKnightRider	26

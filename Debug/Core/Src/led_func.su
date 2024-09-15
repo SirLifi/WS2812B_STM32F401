@@ -1,0 +1,7 @@
+../Core/Src/led_func.c:12:6:sendData	40	static
+../Core/Src/led_func.c:31:6:sendReverseData	40	static
+../Core/Src/led_func.c:52:6:iterationRunRandomColor	96	static
+../Core/Src/led_func.c:68:6:starfall	96	static
+../Core/Src/led_func.c:113:6:focusLens	96	static
+../Core/Src/led_func.c:186:6:smoothAccumulation	104	static
+../Core/Src/led_func.c:247:6:scannerKnightRider	120	static
